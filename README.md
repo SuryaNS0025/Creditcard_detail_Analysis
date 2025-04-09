@@ -17,6 +17,23 @@ This project showcases seamless data integration, advanced data modeling with DA
 
 
 
+Project Insights:
+WoW
+change: Revenue increased by 28.8
+Total Transaction Amt Count increased by 0.6 0.3
+Customer count increased by 0.2
+Overview
+YTD: Overall revenue is 57 M
+Total interest is 8 M
+Total transaction amount is 46 M
+Male customers are contributing more in revenue 31 M, female 26 M
+Blue Silver credit card are contributing to 93 of overall
+transactions
+TX, NY CA is contributing to 68
+Overall Activation rate is 57.5
+Overall Delinquent rate is 6.06.
+
+
 
 
 
